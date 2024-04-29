@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on scalable system projects.
 - 📫 How to reach me email: anderson.carlosb@gmail.com
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbueno&layout=compact&langs_count=7&theme=synthwave"/>
+
+<div>
+<a href="https://github.com/acbueno">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbueno&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 <!---
 acbueno/acbueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
