@@ -9,7 +9,3 @@ acbueno/acbueno is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbueno&layout=compact&langs_count=7&theme=dracula"/>
-</div>
